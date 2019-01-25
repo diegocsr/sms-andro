@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RFD</string>
+    <string name="kunci_des_diisi_8_karakter_bisa_angka_huruf_simbol">Kunci DES diisi 8 karakter bisa angka huruf simbol</string>
+    <string name="tulis_pesan">Tulis Pesan</string>
+    <string name="masukkan_no_telp">Masukkan no telp</string>
+    <string name="todo">Nb</string>
+    <string name="masukkan_pesan">Masukkan pesan</string>
+    <string name="kunci_rail_fence">Kunci Rail Fence</string>
+    <string name="kunci_des">Kunci DES</string>
+    <string name="enkripsi">Enkripsi</string>
+    <string name="kirim">Kirim</string>
+    <string name="hasil_enkripsi">Hasil Enkripsi</string>
+    <string name="kunci_rail_fence_diisi_angka_minimal_1_dan_maksimal_kurang_dari_jumlah_panjang_pesan">Kunci Rail Fence diisi angka minimal 1 dan maksimal kurang dari jumlah panjang pesan</string>
+    <string name="hasil_dekripsi">Hasil Dekripsi</string>
+    <string name="dekripsi">Dekripsi</string>
+</resources>
